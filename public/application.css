@@ -1,0 +1,21 @@
+form#hit_form {
+  float: left;
+  margin-right: 10px
+
+}
+
+form#stay_form {
+  float: left;
+  
+}
+
+img.img-rounded {
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 10px;
+  border:1px solid #000000;
+  background:rgba(227,162,11,0.0);
+  -webkit-box-shadow: #B3B3B3 11px 11px 11px;
+  -moz-box-shadow: #B3B3B3 11px 11px 11px; 
+  box-shadow: #B3B3B3 11px 11px 11px;
+}
